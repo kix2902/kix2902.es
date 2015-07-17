@@ -1,13 +1,9 @@
 <!-- 
 Hello, interested visitor!
 Why don't you check the source code of this site on GitHub?
-I used several great tools like Yeoman, Bower and Grunt.
 Hope you like it :)
-albinotonnina by Albino Tonnina. v1.2.0 - built on 2014-12-18
-* https://github.com/albinotonnina/albinotonnina.com
-* Copyright (c) 2014 Albino Tonnina; Licensed MIT 
+* https://github.com/kix2902/kix2902.es
 -->
-
 <?php
 session_start();
 ?>
