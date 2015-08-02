@@ -49,19 +49,7 @@ session_start();
     
 	<link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.0/material.blue_grey-red.min.css" /> 
 
-	<link rel="stylesheet" href="./styles.css">
-		
-	<style>
-	#view-source {
-	  position: fixed;
-	  display: block;
-	  right: 0;
-	  bottom: 0;
-	  margin-right: 40px;
-	  margin-bottom: 40px;
-	  z-index: 900;
-	}
-	</style>
+	<link rel="stylesheet" href="./styles.css">		
 	
   </head>
   <body class="mdl-demo mdl-color--grey-100 mdl-color-text--grey-700 mdl-base">
