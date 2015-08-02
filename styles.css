@@ -246,8 +246,15 @@ html, body {
   color: white;
 }
 .section__circle-container__circle {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
   display: flex;
+  -webkit-justify-content: center;
+  -ms-justify-content: center;
   justify-content: center;
+  -webkit-align-items: center;
+  -ms-align-items: center;
   align-items: center;
 }
 .section__text>i {
