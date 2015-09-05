@@ -104,7 +104,7 @@ session_start();
 				</div>
 				<div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
 				  <h5>Software Development Course</h5>
-				  Web and desktop development course focused on acquire minimum skills to start working.<br>
+				  Web and desktop development course focused on acquiring minimum skills to start working.<br>
 				  <i class="fa fa-map-marker"></i> Vigo, Spain &nbsp;&nbsp; <i class="fa fa-clock-o"></i> Feb 2008 - Aug 2008
 				</div>
 			  </div>
@@ -173,6 +173,16 @@ session_start();
 			<div class="mdl-card mdl-cell mdl-cell--12-col">
 			  <div class="mdl-card__supporting-text mdl-grid mdl-grid--no-spacing">
 				<h4 class="mdl-cell mdl-cell--12-col">Awards</h4>
+				<div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
+				  <div class="section__circle-container__circle mdl-color--accent">
+					<i class="fa fa-trophy fa-white-colored fa-2x"></i>
+				  </div>
+				</div>
+				<div class="section__text mdl-cell mdl-cell--10-col-desktop mdl-cell--6-col-tablet mdl-cell--3-col-phone">
+				  <h5>Winner of the 1<sup>st</sup> Mobile Day Galicia Hackathon</h5>
+				  Development of a mobile web or app related with any health aspect.<br>
+				  <i class="fa fa-map-marker"></i> Vigo, Spain &nbsp;&nbsp; <i class="fa fa-clock-o"></i> Sep 2015
+				</div>
 				<div class="section__circle-container mdl-cell mdl-cell--2-col mdl-cell--1-col-phone">
 				  <div class="section__circle-container__circle mdl-color--accent">
 					<i class="fa fa-trophy fa-white-colored fa-2x"></i>
